@@ -9,19 +9,7 @@
   <url>http://maven.apache.org</url>
   
   
-   <distributionManagement>  
-	  <repository>
-		  <id>nexus</id>
-		  <name>viswa-relase</name>
-		  <url>http://15.206.173.97:8081/repository/viswa-relase/</url>
-	 </repository>
-	
-	  <snapshotRepository>
-		<id>nexus</id>
-		<name>viswa-snapshot</name>
-		<url>http://15.206.173.97:8081/repository/viswa-snapshot/</url>
-	  </snapshotRepository>	
-   </distributionManagement>
+   
   
  
   <dependencies>
